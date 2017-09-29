@@ -42,5 +42,62 @@ Structural Deep Network Embedding	| 16	| 12
 node2vec: Scalable Feature Learning for Networks	|16	 |27				
 
 
+
+
+http://www.itdadao.com/articles/c15a1521311p0.html
+
+DeepWalk: Online Learning of Social Representations. Bryan Perozzi, Rami Al-Rfou, Steven Skiena. KDD 2014. papercode
+
+Learning Latent Representations of Nodes for Classifying in Heterogeneous Social Networks. Yann Jacob, Ludovic Denoyer, Patrick Gallinar. WSDM 2014. paper
+
+Non-transitive Hashing with Latent Similarity Componets. Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.KDD 2015. paper
+
+GraRep: Learning Graph Representations with Global Structural Information. Shaosheng Cao, Wei Lu, Qiongkai Xu.CIKM 2015. paper code
+
+LINE: Large-scale Information Network Embedding. Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Me. WWW 2015. paper code
+
+Network Representation Learning with Rich Text Information. Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang. IJCAI 2015. paper code
+
+PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks. Jian Tang, Meng Qu, Qiaozhu Mei.KDD 2015. paper code
+
+Heterogeneous Network Embedding via Deep Architectures. Shiyu Chang, Wei Han, Jiliang Tang, Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang. KDD 2015. paper
+
+Deep Neural Networks for Learning Graph Representations. Shaosheng Cao, Wei Lu, Xiongkai Xu. AAAI 2016. papercode
+
+Asymmetric Transitivity Preserving Graph Embedding. Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu. KDD 2016. paper
+
+Revisiting Semi-supervised Learning with Graph Embeddings. Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.ICML 2016. paper
+
+node2vec: Scalable Feature Learning for Networks. Aditya Grover, Jure Leskovec. KDD 2016. paper code
+
+Max-Margin DeepWalk: Discriminative Learning of Network Representation. Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun. IJCAI 2016. paper code
+
+Structural Deep Network Embedding. Daixin Wang, Peng Cui, Wenwu Zhu. KDD 2016. paper
+
+Community Preserving Network Embedding. Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.AAAI 2017. paper
+
+Semi-supervised Classification with Graph Convolutional Networks. Thomas N. Kipf, Max Welling. ICLR 2017. papercode
+
+CANE: Context-Aware Network Embedding for Relation Modeling. Cunchao Tu, Han Liu, Zhiyuan Liu, Maosong Sun. ACL 2017. paper code
+
+Fast Network Embedding Enhancement via High Order Proximity Approximation. Cheng Yang, Maosong Sun, Zhiyuan Liu, Cunchao Tu. IJCAI 2017. paper code
+
+TransNet: Translation-Based Network Representation Learning for Social Relation Extraction. Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun. IJCAI 2017. paper code
+
+metapath2vec: Scalable Representation Learning for Heterogeneous Networks. Yuxiao Dong, Nitesh V. Chawla, Ananthram Swami. KDD 2017. paper code
+
+Learning from Labeled and Unlabeled Vertices in Networks. Wei Ye, Linfei Zhou, Dominik Mautz, Claudia Plant, Christian Böhm. KDD 2017.
+
+Unsupervised Feature Selection in Signed Social Networks. Kewei Cheng, Jundong Li, Huan Liu. KDD 2017. paper
+
+struc2vec: Learning Node Representations from Structural Identity. Leonardo F. R. Ribeiro, Pedro H. P. Saverese, Daniel R. Figueiredo. KDD 2017. paper code
+
+Inductive Representation Learning on Large Graphs. William L. Hamilton, Rex Ying, Jure Leskovec. Submitted to NIPS 2017. paper code
+
+Variation Autoencoder Based Network Representation Learning for Classification. Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki. ACL 2017. paper
+
+
+
+
 # Ontology
 (In progress) Network diagram of network embedding research papers. Intended to help people grab a quick lay of the network embedding landscape.
